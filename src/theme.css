@@ -1,0 +1,15 @@
+.App {
+  width: 100%;
+}
+
+.ImageDiv {
+  display: flex;
+  padding: 10px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+img {
+  box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
+}
